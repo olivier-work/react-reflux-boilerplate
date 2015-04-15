@@ -7,6 +7,8 @@ live reload
 
 es6 + jsx transforms
 
+jquery + bootstrap
+
 ###install dependencies
 ```npm install```
 
