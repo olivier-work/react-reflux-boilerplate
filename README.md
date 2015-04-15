@@ -8,7 +8,7 @@ live reload
 es6 + jsx transforms
 
 ###install dependencies
-```npm install``
+```npm install```
 
 ### start
 ```npm start```
